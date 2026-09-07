@@ -8,19 +8,20 @@
 
 ---
 
-About Me 😊
+## About Me
 
-- 📝 Computer Engineering Student  
-- 🔭 I’m currently working with **Oracle PL/SQL, APEX, TOAD**  
-- 🌱 I have developed web applications using **.NET C#, HTML, CSS, and JavaScript**  
-- 📫 Contact: **lopezfranco051@gmail.com**
+* 🎓 Computer Engineering Student
+* 🔭 Currently working with **Oracle PL/SQL, APEX and TOAD**
+* 🌱 Developing web applications using **.NET, C#, HTML, CSS and JavaScript**
+* 🐳 Experience with **Docker, Git and REST APIs**
+* 📫 Contact: **[lopezfranco051@gmail.com](mailto:lopezfranco051@gmail.com)**
 
 ---
 
-🛠️ Technologies Known  
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,css,html,js,nodejs,mysql,git,github,docker,postman,solidity" />
+  <img src="https://skillicons.dev/icons?i=dotnet,css,html,js,git,github,docker,postman" />
 </p>
 
 <p align="left">
@@ -30,12 +31,13 @@ About Me 😊
   &nbsp;
   <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
+
 ---
-📊 GitHub Stats  
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancoGabriel051&theme=dark&show_icons=true&count_private=true" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoGabriel051&theme=dark&hide_border=false" />
 </div>
-
